@@ -1,6 +1,6 @@
 # Logcat Analyzer
 
-![App Icon](img/icon.ico)
+![App Icon](https://github.com/Kelunie/Logcat_Analyzer/blob/master/Img/Icon.ico)
 
 **Logcat Analyzer** es una aplicación de escritorio desarrollada en Python que permite analizar archivos de logs de Android, detectando eventos de conectividad WiFi, estado de la red y problemas del sistema. La herramienta genera reportes detallados con un resumen estadístico, eventos detectados y una línea de tiempo de los primeros eventos.
 
